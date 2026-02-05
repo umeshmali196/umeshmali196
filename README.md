@@ -5,7 +5,7 @@
 ---
 
 🔭 I’m currently working on AI and Machine Learning projects  
-🌱 I’m currently learning Data Science and Data Analytics using Python  
+🌱 I’m learning Data Science and Data Analytics using Python  
 📫 How to reach me: [umeshmahajan196@gmail.com](mailto:umeshmahajan196@gmail.com)
 
 ---
